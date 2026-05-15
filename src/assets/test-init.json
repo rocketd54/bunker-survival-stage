@@ -1,0 +1,31 @@
+{
+  "characters": {
+    "elara_001": {
+      "id": "elara_001",
+      "name": "Elara",
+      "description": "The main heroine. Caring, empathetic, emotionally attuned.",
+      "personality": "Warm, protective, quietly anxious about the outside world.",
+      "isUserControlled": false
+    }
+  },
+  "users": {
+    "user_001": {
+      "id": "user_001",
+      "name": "{{user}}",
+      "isUserControlled": true
+    }
+  },
+  "config": {
+    "starting_food": 7,
+    "starting_water": 10,
+    "starting_power": 80,
+    "rook_arrival_day": 5,
+    "vera_arrival_day": 8,
+    "corruption_speed": "normal",
+    "zombie_threat": "medium"
+  },
+  "messageState": null,
+  "initState": null,
+  "chatState": null,
+  "environment": "development"
+}
